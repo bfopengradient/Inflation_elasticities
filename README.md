@@ -1,6 +1,6 @@
 ### Inflation elasticities.
 
-Checking rolling log-log regression models. The target variable is Inflation. The predictors are one period lags of the unemployment rate and short term interest rates.
+Checking rolling log-log regression models. The target variable is inflation. The predictors are one period lags of the unemployment rate and short term interest rates.
 
 The elasticities are the coefficients from a log-log regression model, i.e where logs are taken of both the predictor and the target variable. 
 
